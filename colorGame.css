@@ -10,6 +10,21 @@ h1 {
   color: white;
 }
 
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+
+#message {
+  color: black;
+}
+
+.selected {
+  background-color: blue;
+}
+
 .square {
   width: 30%;
   background-color: purple;
